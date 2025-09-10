@@ -8,7 +8,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
 
 <p align="center">
-  <img src="https://github.com/AnfalAlkuraydis/Arabic-sign-language-detection/blob/main/assets/signLanguage.png" width="650"/>
+  <img src="https://github.com/AnfalAlkuraydis/Ishara-Arabic-Sign-Language-Recognition/blob/main/assets/signLanguage.png" width="650"/>
 </p>
 
 </div>
@@ -59,7 +59,7 @@ Model achieves around **90% accuracy** on the test set.
 The system can run in real time with webcam input:  
 
 <p align="center">
-  <img src="https://github.com/AnfalAlkuraydis/Arabic-sign-language-detection/blob/main/assets/results.jpg" width="500"/>
+  <img src="https://github.com/AnfalAlkuraydis/Ishara-Arabic-Sign-Language-Recognition/blob/main/assets/results.jpg" width="500"/>
 </p>
 
 
