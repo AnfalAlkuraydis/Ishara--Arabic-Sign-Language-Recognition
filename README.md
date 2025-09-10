@@ -62,15 +62,7 @@ The system can run in real time with webcam input:
   <img src="https://github.com/AnfalAlkuraydis/Arabic-sign-language-detection/blob/main/assets/results.jpg" width="500"/>
 </p>
 
----
 
-## ⚙️ Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/AnfalAlkuraydis/Arabic-sign-language-detection.git
-cd Arabic-sign-language-detection
-```
 
 ---
 
